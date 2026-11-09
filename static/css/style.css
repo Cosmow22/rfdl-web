@@ -95,3 +95,10 @@ ul {
 ul li::marker {
     color: var(--red);
 }
+
+#error-message {
+    color: var(--red);
+    opacity: 1;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
